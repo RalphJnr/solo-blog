@@ -3,13 +3,6 @@ const postPageContainer = document.getElementById("post-page");
 const aboutUsContainer = document.getElementById("about-us");
 const link = document.querySelector("a");
 
-// postLink;
-// aboutLink;
-
-// link.addEventListener("click", function (e) {
-//   e.preventDefault();
-// });
-
 document.addEventListener("click", function (e) {
   e.preventDefault();
 
