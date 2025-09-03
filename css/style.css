@@ -9,6 +9,12 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+#postLink,
+#aboutLink,
+#home {
+  cursor: pointer;
+}
+
 .logo {
   width: 23.16px;
   height: 23.16px;

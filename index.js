@@ -4,7 +4,7 @@ const aboutUsContainer = document.getElementById("about-us");
 const link = document.querySelector("a");
 
 document.addEventListener("click", function (e) {
-  e.preventDefault();
+  // e.preventDefault();
 
   if (e.target.id === "postLink") {
     homePageContainer.classList.add("hide");
